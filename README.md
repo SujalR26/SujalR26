@@ -8,7 +8,7 @@ Here are some of the projects I've worked on:<br><br>- [**Pizzario**](https://pi
 # 🌱 What I'm Learning<br>
 Deepening my understanding of **React** and **Node.js**.<br>- Exploring **New** tools.<br><br>
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujal_rathore_26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sujal-rathore-28952028b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br><br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujal_rathore_26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sujal-rathore-28952028b)<br><br>
 
 
  
