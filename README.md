@@ -12,6 +12,26 @@ Here are some highlights of what I’ve built so far:<br><br>
 - [**MS_UI_Copy**](https://github.com/SujalR26/MS_UI_Copy): A **pixel-perfect replica of Microsoft’s UI**.  
 
 *(More exciting projects coming soon — stay tuned 🚀)*  
+# 🏆 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/SujalR26/">
+    <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/sujalrathore26">
+    <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/SujalRathore">
+    <img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+* 💡 **500+ DSA problems** solved across LeetCode, CodeChef, and GeeksforGeeks.
+* ⚡ **Knight** on LeetCode
+* ⭐ **3★** on CodeChef
+* 📈 **Pupil** on Codeforces
+* 🚀 Passionate about Data Structures, Algorithms, and Competitive Programming.
+
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
