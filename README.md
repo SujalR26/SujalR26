@@ -1,7 +1,17 @@
 # 💫 About Me:
 Hi, I'm Sujal 👋<br><br>
 🎓 I'm a **3rd-year student at IIITDM Jabalpur**, exploring the world of technology and innovation. I’m passionate about **full-stack development**, **problem-solving**, and building projects that make an impact. I love learning, experimenting with new tools, and turning ideas into reality.  
-
+<p align="center">
+  <a href="https://sujalrportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sujalrathore26/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sujalrathore26.sr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 # 🚀 My Projects
 Here are some highlights of what I've built so far:<br><br>
 
