@@ -20,10 +20,7 @@ Here are some highlights of what I've built so far:<br><br>
 - [**ProcureFlowEnv**](https://github.com/SujalR26/meta): Production-oriented OpenEnv environment simulating procurement workflows with policy validation, vendor evaluation, and Gym-style AI agent tasks.
 - [**WHT Watermark Lab**](https://github.com/SujalR26/WHTMark): Flask-based image watermarking application implementing the Walsh–Hadamard Transform with attack simulation and watermark quality analysis.
 - [**Pizzario**](https://pizzario-sujal-rathores-projects-bd32648d.vercel.app/): Full-stack MERN pizza ordering platform featuring authentication, responsive design, and seamless online ordering.
-- [**Netflix Clone**](https://netflix-clone-wy92.onrender.com/): Responsive Netflix-inspired streaming platform with a modern UI and dynamic content rendering.
 - [**Uber Clone**](https://github.com/SujalR26/Uber-Clone): Full-stack ride-booking application demonstrating authentication, routing, and scalable backend architecture.
-- [**WeatherWeb**](https://weather-web-taupe-mu.vercel.app/): Real-time weather forecasting application powered by external APIs with a clean and responsive interface.
-- [**MS_UI_Copy**](https://github.com/SujalR26/MS_UI_Copy): Pixel-perfect recreation of Microsoft's official landing page showcasing responsive frontend development.
 
 *(More exciting projects coming soon — stay tuned 🚀)*
 
